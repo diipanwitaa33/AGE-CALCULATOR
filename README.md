@@ -1,6 +1,3 @@
-# Age Calculator  
-![age_calculator](https://github.com/user-attachments/assets/3cd9fe92-1a15-4daf-9c41-9ee421e42a48)
-
 ## 📌 About  
 A simple web-based Age Calculator that allows users to enter their birthdate and calculates their exact age in years, months, and days.
 
@@ -20,3 +17,4 @@ A simple web-based Age Calculator that allows users to enter their birthdate and
 2. Click the "Calculate" button.  
 3. View your exact age in years, months, and days.
 
+![age_calculator](https://github.com/user-attachments/assets/3cd9fe92-1a15-4daf-9c41-9ee421e42a48)
